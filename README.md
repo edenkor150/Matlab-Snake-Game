@@ -9,17 +9,10 @@ A fully functional implementation of the classic "Snake" arcade game, running en
 
 ## 🚀 Setup & Installation
 
-1.  **Save the Script:**
-    * Create a new MATLAB script file (e.g., `SnakeGame.m`).
-    * Paste the provided game code into the file and save it.
-
-2.  **Prepare your Keyboard:**
-    * Ensure your **NumLock** key is turned **ON**. The game specifically listens for Numpad key codes.
-
-3.  **Run the Game:**
-    * Open the script in MATLAB.
-    * Press `F5` or click the **Run** button.
-    * The game window will open in "Maximized" mode automatically.
+**Run the Game:**
+* Open the script in MATLAB.
+* Press `F5` or click the **Run** button.
+* The game window will open in "Maximized" mode automatically.
 
 ## 🎮 Controls
 
